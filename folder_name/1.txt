@@ -1,0 +1,54 @@
+[B10] Beckmann,L. (2010) Haplotype Sharing Methods. In: Encyclopedia of Life Sciences (ELS). John Wiley & Sons, Ltd, Chichester
+[C98] Clark,A. et al. (1998) Haplotype structure and population genetic inferences from nucleotide-sequence variation in human lipoprotein lipase. Am. J. Hum. Genet., 63, 595–612Hoehe,M. et al. (2000) Sequence variability and candidate gene analysis in complex disease: association of   opioid receptor gene variation with substance dependence. Hum. Mol. Genet., 9, 2895–2908.
+ [SCI02] Schwartz,R., Clark,A. and Istrail,S. (2002) Methods for inferring block-wise ancestral history from haploid sequences. In Guigo,R. and Gusfield,D. (eds.), Algorithms in Bioinformatics, Second International Workshop (WABI’02), pp. 44–59.
+[S10] Schwartz,R. (2010) Theory and algorithms for the haplotype assembly problem. Commun. Inform. Syst., 10, 23–38.
+[Lippert02] Lippert,R., Schwartz,R., Lancia,G. and Istrail,S. (2002) Algorithmic strategies for the single nucleotide polymorphism haplotype assembly problem.  Briefings in bioinformatics, 3, 23-31.
+[AI12] Aguiar,D. and Istrail,S. (2012) HapCompass: a fast cycle basis algorithm for accurate
+haplotype assembly of sequence data. J. Comput. Biol., 19, 577–590.
+[D+12] Duitama,J. et al. (2012) Fosmid-based whole genome haplotyping of a HapMap trio child: evaluation of Single Individual Haplotyping techniques. Nucleic Acids Res., 40, 2041–2053.
+[D+11] Duitama,J. et al. (2011) Towards accurate detection and genotyping of expressed variants from whole transcriptome sequencing data. In Proceedings of ICCABS, Orlando, FL, USA, pp. 87–92.
+[C+05] Cilibrasi,R. et al. (2005) On the complexity of several haplotyping problems. Algorithms in Bioinformatics Lecture Notes in Computer Science, 3692, 128–139.
+[Z+05] Zhao,Y.Y. et al. (2005) Haplotype assembly from aligned weighted SNP fragments.
+Comput. Biol. Chem., 29, 281–287.
+[W09] Wu,L.Y. et al. (2009) Self-organizing map approaches for the haplotype assembly problem. Math. Comput. Simul., 79, 3026–3037.
+ [HKW00] Hoehe,M., Kopke,K.,Wendel,B., Rohde,K., Flachmeier,C., Kidd,K., Berrettini,W. and Church,G. (2000) Sequence variability and candidate gene analysis in complex disease: association of μ opioid receptor gene variation with substance dependence. Hum. Mol. Genet., 9, 2895–2908.
+[C98] Clark,A., Weiss,K., Nickerson,D., Taylor,S., Buchanan,A., Stengard,J., Salomaa,V., Vartiainen,E., Perola,M., Boerwinkle,E. and Sing,C. (1998) Haplotype structure and population genetic inferences from nucleotide-sequence variation in human lipoprotein lipase. Am. J. Hum. Genet., 63, 595–612.
+ [M00] Myers,E. et al. (2000) A Whole-Genome Assembly of Drosophila. Science, 287, 2196-2204. 
+[S11] Star,B., Nederbragt,A. et al. (2011) The genome sequence of Atlantic cod reveals a unique immune system. Nature, 477, 207-210. 
+[AS11] Ariyaratne, P.N. and Sung, W.K. (2011) PE-Assembler: de novo assembler using short paired-end reads. Bioinformatics, 27, 167-174.
+[NS11] Gao,S., Nagarajan,N. and Sung,W.K. (2011) Opera: Reconstructing Optimal Genomic Scaffolds with High-Throughput Paired-End Sequences. Proceedings of RECOMB 2011, 437-451.
+[Lancia01] Lancia,G. et al. (2001) SNPs problems, complexity, and algorithms. In Proceedings of the 9th Annual European Symposium on Algorithms. Lecture Notes in Computer Science, Springer, Berlin, Heidelberg, pp. 182–193.
+ [Cilibrasi 05] Cilibrasi,R. et al. (2005) On the complexity of several haplotyping problems. In Proceedings of the 5th International Workshop on Algorithms in Bioinformatics, Vol. of 3692 Lecture Notes in Computer Science, Springer, Berlin, Heidelberg, pp. 128–139.
+[Wang05] Wang, R. et al. (2005) Haplotype reconstruction from SNP fragments by minimum error correction. Bioinformatics, 21, 2456.
+[Levy] Levy,S. et al. (2007) The diploid genome sequence of an individual human. PLoS Biol., 5, e254.
+[BB08] Bansal,V. and Bafna,V. (2008) HapCUT: an efficient and accurate algorithm for the haplotype assembly problem. Bioinformatics, 24, i153.
+[BHAB08] Bansal,V.,  Halpern, A.,  Axelrod,N. and Bafna,V. (2008) An MCMC algorithm for haplotype assembly from whole-genome sequence data. Genome Res., 18, 1336-1346.
+[Christine11] Christine,L., Ali,B., Vikas,B., Vineet,B. (2011) Strobe sequence design for haplotype assembly. BMC Bioinformatics, 12(Suppl 1), 524.
+[He10] He,D., Choi,A., Pipatsrisawat,K., Darwiche,A. and Eskin,E. (2010) Optimal algorithms for haplotype assembly from whole-genome sequence data. Bioinformatics, 26, i183.
+[Wang10] Wang,J., Xie,M. and Chen,J. (2010)  A practical exact algorithm for the individual haplotyping problem mec/gi.  Algorithmica, 56, 283–296.
+[YDA10] Yang,X.,  Dorman,K. and Aluru1,S. (2011) Reptile: representative tiling for short read error correction. Bioinformatics, 26, 2526-2533. 
+[K+14] Volodymyr Kuleshov, Dan Xie, Rui Chen, Dmitry Pushkarev, Zhihai Ma, Tim Blauwkamp,
+Michael Kertesz and Michael Snyder, Whole-genome haplotyping using long reads and statistical methods, Nature Biotechnology, published online 23 February 2014;
+[P+14] Patterson et.al (2014) WhatsHap: Haplotype Assembly for Future-Generation Sequencing Reads, RECOMB 2014, LNBI 8394, pp. 237–249, 2014. 
+[S+13] Siddarth Selvaraj, Jesse R Dixon, Vikas Bansal, and  Bing Ren, Whole-genome haplotype reconstruction using proximity-ligation and shotgun sequencing, Nature Biotechnology, published online 3 November 2013. 
+[K+14] Kuleshov et al, Whole-genome haplotyping using long reads and statistical haplotype methods, Nature Biotechnology, VOLUME 32, NUMBER 3,  MARCH 2014. 
+[S+13] Selvaraj et al., Whole-genome haplotype reconstruction using proximity-ligation and shotgun sequencing,  Nature Biotechnology, published online 3 November 2013.
+[K+11] Kitzman Haplotype-resolved genome sequencing of a Gujarati Indian individual, Nature Biotechnology, VOLUME 29 NUMBER 1, pp. 59-64,  JANUARY 2011. 
+[D1] Doi, K., Li, J., and Jiang,T. (2003) Minimum recombinant configuration on tree pedigrees. In Proceedings of the WABI 2003, pages 339–353.
+[D2] Li,j. and Jiang,T. (2005) Computing the Minimum Recombinant Haplotype Configuration from Incomplete Genotype Data on a Pedigree by Integer Linear Programming. J. Comput. Biol., 12, 719-739.
+[D3] Li,J. and Jiang,T. (2004) An exact solution for finding minimum recombinant haplotype configurations on pedigrees with missing data by integer linear programming. Proceedings of RECOMB 2004, 20-29.
+[D4] Xiao,J., Liu,L., Xia,L. and Jiang,T. (2007) Fast elimination of redundant linear equations and reconstruction of recombination-free mendelian inheritance on a pedigree. Proceedings of SODA 2007, 655-664.
+[CDW13] Zhi-Zhong Chen, Fei Deng, Lusheng Wang: Exact algorithms for haplotype assembly from whole-genome sequence data. Bioinformatics 29(16): 1938-1945 (2013)
+[CDW14] Zhi-Zhong Chen, Fei Deng, Lusheng Wang: Better ILP-based approach to haplotype assembly, submitted for publication.
+[DW13] Fei Deng, Lusheng Wang, and Wenjuan Cui, A highly accurate heuristic algorithm for the haplotype assembly problem, BMC Genomics, Vol. 14 S2, 2013. 
+[W1] Yang,W., Wang,Z., Wang,L., Sham,P.C., Huang,P. and Lau,Y.L. (2008) Predicting the number and sizes of IBD regions among family members and evaluating the family size requirement for linkage studies.  Eur. J. Hum. Genet., 16, 1535-1543. 
+[W2] Lin,G., Wang,Z., Wang,L., Lau,Y.L. and Yang,W. (2008) Identification of linked regions using high-density SNP genotype data in linkage analysis. Bioinformatics, 24, 86-93.
+[W3] Wang,L., Wang,Z., Yang,W. (2009) Linked region detection using high-density SNP genotype data via the minimum recombinant model of pedigree haplotype inference. BMC Bioinformatics, 10, 216.
+[W4] Ma,W., Yang,Y., Chen,Z.Z. and Wang,L. (2011) Mutation Region Detection for Closely Related Individuals without a Known Pedigree, IEEE/ACM Trans. Comput. Biology Bioinform., Accepted.
+[W5] Li,M., Ma,B. and Wang,L. (1999) Finding Similar Regions in Many Strings. Proceedings of STOC 1999, 473-482.
+[W6] Li,M., Ma,B. and Wang,L. (2000) Near optimal multiple alignment within a band in polynomial time. Proceedings of STOC 2000, 425-434.
+[W7] Li,M., Ma,B. and Wang,L. (2002) Finding Similar Regions in Many Sequences. J. Comput. Syst. Sci., 65, 73-96.
+[W8] Li,M., Ma,B. and Wang,L. (2002) On the closest string and substring problems. J. ACM, 49, 157-171.
+[W9] Wang,L. and Xu,Y. (2003) Haplotype inference by maximum parsimony. Bioinformatics, 19, 1773-1780.
+
+
